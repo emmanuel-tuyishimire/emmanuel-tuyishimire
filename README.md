@@ -4,7 +4,7 @@ I am a healthcare professional in training with a strong passion for software en
 
 ##  About Me
 
-* 🩺 **Clinical Background:** I'm currently a Year 2 General Nursing student at the University of Rwanda, with clinical experience in areas like maternity and neonatality.
+* 🩺 **Clinical Background:** I'm currently a High school graduate, with clinical experience in areas like maternity and neonatality.
 * 💻 **Tech Journey:** I'm a Software Development Trainee and Vanguard peer supporter through the ALX program. 
 * 🌍 **Focus:** I am deeply interested in HealthTech innovation. I enjoy working on projects that solve real-world medical challenges, such as digital patient trackers (like AfyaSync).
 * 🌱 **Currently Learning:** Python programming, UI/UX design, and data science.
